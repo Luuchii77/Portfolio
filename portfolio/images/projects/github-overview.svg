@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="560" viewBox="0 0 640 560" role="img" aria-label="GitHub repositories overview">
+  <rect width="640" height="560" fill="#141414"/>
+  <text x="32" y="48" fill="#e5d5b8" font-family="system-ui,sans-serif" font-size="13" letter-spacing="2" font-weight="600">GITHUB � @LUUCHII77</text>
+  <rect x="32" y="68" width="276" height="88" rx="4" fill="#1a1a1a" stroke="#e5d5b8" stroke-width="1" opacity="0.35"/>
+  <text x="48" y="100" fill="#e5d5b8" font-size="11" font-family="system-ui,sans-serif" font-weight="600">Screen-Time-Monitoring-OS</text>
+  <text x="48" y="122" fill="#68217a" font-size="10" font-family="system-ui,sans-serif">C# � NEW</text>
+  <rect x="324" y="68" width="276" height="88" rx="4" fill="#1a1a1a" stroke="#333"/>
+  <text x="340" y="100" fill="#e5d5b8" font-size="11" font-family="system-ui,sans-serif" font-weight="600">Library-Management-System</text>
+  <text x="340" y="122" fill="#68217a" font-size="10" font-family="system-ui,sans-serif">C#</text>
+  <rect x="32" y="168" width="276" height="88" rx="4" fill="#1a1a1a" stroke="#333"/>
+  <text x="48" y="200" fill="#e5d5b8" font-size="11" font-family="system-ui,sans-serif" font-weight="600">Screen-Monitor</text>
+  <text x="48" y="222" fill="#68217a" font-size="10" font-family="system-ui,sans-serif">C#</text>
+  <rect x="324" y="168" width="276" height="88" rx="4" fill="#1a1a1a" stroke="#333"/>
+  <text x="340" y="200" fill="#e5d5b8" font-size="11" font-family="system-ui,sans-serif" font-weight="600">Numerical-Methods</text>
+  <text x="340" y="222" fill="#3a9bdc" font-size="10" font-family="system-ui,sans-serif">Python</text>
+  <rect x="32" y="268" width="276" height="88" rx="4" fill="#1a1a1a" stroke="#333"/>
+  <text x="48" y="300" fill="#e5d5b8" font-size="11" font-family="system-ui,sans-serif" font-weight="600">Websites</text>
+  <text x="48" y="322" fill="#e34c26" font-size="10" font-family="system-ui,sans-serif">HTML</text>
+  <rect x="324" y="268" width="276" height="88" rx="4" fill="#1a1a1a" stroke="#333"/>
+  <text x="340" y="310" fill="#a8a8a8" font-size="11" font-family="system-ui,sans-serif">+ profile config repo</text>
+  <rect x="32" y="376" width="568" height="140" rx="4" fill="#1a1a1a" stroke="#e5d5b8" stroke-width="1" opacity="0.2"/>
+  <text x="48" y="420" fill="#e5d5b8" font-size="22" font-family="system-ui,sans-serif" font-weight="700">6 Public Repositories</text>
+  <text x="48" y="455" fill="#a8a8a8" font-size="14" font-family="system-ui,sans-serif">Desktop � OS monitoring � Web � Numerical</text>
+  <text x="48" y="490" fill="#6e6e6e" font-size="13" font-family="monospace">github.com/Luuchii77</text>
+</svg>
