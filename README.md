@@ -2,21 +2,6 @@
 
 Static portfolio site matching the dark creative template, built with HTML, CSS, and JavaScript.
 
-## Preview locally
-
-**Option 1 — Open file**
-
-Double-click `index.html` in this folder (works in Chrome, Edge, Firefox).
-
-**Option 2 — Local server (recommended)**
-
-```powershell
-cd "d:\School Files\Permanent Files\Formal Images\portfolio"
-python -m http.server 8080
-```
-
-Then open: http://localhost:8080
-
 ## Project structure
 
 ```
