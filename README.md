@@ -50,6 +50,4 @@ Edit `index.html` to update:
 - Project descriptions and links
 - Contact email (add to contact section if desired)
 
-## Publish later (GitHub Pages)
 
-When ready, create a repo (e.g. `portfolio`), push this folder, enable Pages on the `main` branch.
